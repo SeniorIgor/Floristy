@@ -2,7 +2,7 @@
 ### Floristy - верстка одностраничного сайта компании «Весна всегда» по макету в формате Figma. 
 Проект включает в себя отзывчиво-адаптивную вёрстку лендинга используя HTML, SCSS, БЭМ, JS. Проект собран с помощью Webpack.
 
-<img src="https://github.com/SeniorIgor/Bicycle/blob/master/for-readme.jpg" alt="bicycle" width="400" height="auto"/>
+<img src="https://github.com/SeniorIgor/Bicycle/blob/master/for-readme1.png" alt="bicycle" width="400" height="auto"/>
 
 > ### Для запуска приложения выполните следующие действия:
 > Чтобы запустить приложение, откройте новое окно командной строки, перейдите в папку и выполните одну из следующих команд:
