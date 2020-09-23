@@ -1,5 +1,5 @@
 # Floristy
-### Floristy - верстка одностраничного сайта компании «Весна всегда» по макету в формате графического редактора FIGMA. 
+### Floristy - верстка одностраничного сайта компании «Весна всегда» по макету в формате Figma. 
 Проект включает в себя отзывчиво-адаптивную вёрстку лендинга используя HTML, SCSS, БЭМ, JS. Проект собран с помощью Webpack.
 
 <img src="https://github.com/SeniorIgor/Bicycle/blob/master/for-readme.jpg" alt="bicycle" width="400" height="auto"/>
