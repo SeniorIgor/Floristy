@@ -1,8 +1,6 @@
-# <a href="https://github.com/SeniorIgor/To-Do#-to-do"><img src="https://github.com/SeniorIgor/Floristy/blob/master/for-readme4.png" alt="to-do" width="60" height="auto"/></a> Floristy
+# <a href="https://github.com/SeniorIgor/To-Do#-to-do"><img src="https://github.com/SeniorIgor/Floristy/blob/master/for-readme4.png" alt="to-do" width="55" height="auto"/></a> Floristy
 ### Floristy - верстка одностраничного сайта компании «Весна всегда» по макету в формате Figma. 
 Проект включает в себя отзывчиво-адаптивную вёрстку лендинга используя HTML, SCSS, БЭМ, JS. Проект собран с помощью Webpack.
-
-<img src="https://github.com/SeniorIgor/Floristy/blob/master/for-readme4.png" alt="flower" width="400" height="auto"/>
 
 > ### Для запуска приложения выполните следующие действия:
 > Чтобы запустить приложение, откройте новое окно командной строки, перейдите в папку и выполните одну из следующих команд:
